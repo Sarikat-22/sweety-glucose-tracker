@@ -1,4 +1,4 @@
-\# Sweety – Blood Glucose Tracker ❤️
+\# Sweety â€“ Blood Glucose Tracker â¤ï¸
 
 
 
@@ -104,43 +104,43 @@ A full-stack blood glucose tracking application built using React, Node.js, Expr
 
 sweety-glucose-tracker/
 
-├── client/
+â”œâ”€â”€ client/
 
-│   ├── src/
+â”‚   â”œâ”€â”€ src/
 
-│   │   ├── components/
+â”‚   â”‚   â”œâ”€â”€ components/
 
-│   │   ├── pages/
+â”‚   â”‚   â”œâ”€â”€ pages/
 
-│   │   ├── services/
+â”‚   â”‚   â”œâ”€â”€ services/
 
-│   │   ├── App.jsx
+â”‚   â”‚   â”œâ”€â”€ App.jsx
 
-│   │   └── index.css
+â”‚   â”‚   â””â”€â”€ index.css
 
-│   └── package.json
+â”‚   â””â”€â”€ package.json
 
-├── server/
+â”œâ”€â”€ server/
 
-│   ├── config/
+â”‚   â”œâ”€â”€ config/
 
-│   ├── controllers/
+â”‚   â”œâ”€â”€ controllers/
 
-│   ├── middleware/
+â”‚   â”œâ”€â”€ middleware/
 
-│   ├── routes/
+â”‚   â”œâ”€â”€ routes/
 
-│   ├── scripts/
+â”‚   â”œâ”€â”€ scripts/
 
-│   ├── .env.example
+â”‚   â”œâ”€â”€ .env.example
 
-│   ├── server.js
+â”‚   â”œâ”€â”€ server.js
 
-│   └── package.json
+â”‚   â””â”€â”€ package.json
 
-├── .gitignore
+â”œâ”€â”€ .gitignore
 
-└── README.md
+â””â”€â”€ README.md
 
 ```
 
@@ -417,7 +417,7 @@ Sweety is a personal glucose tracking application for recording and reviewing re
 
 ## Demo Video
 
-Watch the 2�3 minute application walkthrough:
+Watch the 1–2 minute application walkthrough:
 
 [Watch Sweety Demo](https://drive.google.com/file/d/1vImoRyff4wJ2a7soxl4l6MsfxUruFBpE/view?usp=drive_link)
 
