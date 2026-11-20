@@ -414,3 +414,10 @@ Protected endpoints require a valid JWT Bearer token.
 
 Sweety is a personal glucose tracking application for recording and reviewing readings. It does not provide medical diagnosis or replace professional medical advice.
 
+
+## Demo Video
+
+Watch the 2–3 minute application walkthrough:
+
+[Watch Sweety Demo](https://drive.google.com/file/d/1vImoRyff4wJ2a7soxl4l6MsfxUruFBpE/view?usp=drive_link)
+
